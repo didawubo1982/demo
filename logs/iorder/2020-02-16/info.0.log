@@ -1,0 +1,77 @@
+[INFO ] 2020-02-16 23:48:48 [main] com.DemoApplication - Starting DemoApplication on wangzhihuideMacBook-Pro.local with PID 29489 (/Users/zhihui/workspaces/demo/target/classes started by zhihui in /Users/zhihui/workspaces/demo)
+[INFO ] 2020-02-16 23:48:48 [main] com.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-16 23:48:48 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-16 23:48:48 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2020-02-16 23:48:48 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:48:48 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-02-16 23:48:48 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+[INFO ] 2020-02-16 23:48:48 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-02-16 23:48:48 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1037 ms
+[INFO ] 2020-02-16 23:48:48 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:48:48 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+[INFO ] 2020-02-16 23:48:48 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+[INFO ] 2020-02-16 23:48:48 [main] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+[INFO ] 2020-02-16 23:48:48 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:48:48 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2020-02-16 23:48:48 [main] com.DemoApplication - Started DemoApplication in 2.443 seconds (JVM running for 3.123)
+[INFO ] 2020-02-16 23:48:48 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:49:54 [main] com.DemoApplication - Starting DemoApplication on wangzhihuideMacBook-Pro.local with PID 29498 (/Users/zhihui/workspaces/demo/target/classes started by zhihui in /Users/zhihui/workspaces/demo)
+[INFO ] 2020-02-16 23:49:54 [main] com.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-16 23:49:54 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-16 23:49:54 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2020-02-16 23:49:54 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:49:54 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-02-16 23:49:54 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+[INFO ] 2020-02-16 23:49:54 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-02-16 23:49:54 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 963 ms
+[INFO ] 2020-02-16 23:49:54 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:49:54 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+[INFO ] 2020-02-16 23:49:54 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+[INFO ] 2020-02-16 23:49:54 [main] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+[INFO ] 2020-02-16 23:49:54 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:49:54 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2020-02-16 23:49:54 [main] com.DemoApplication - Started DemoApplication in 2.138 seconds (JVM running for 2.651)
+[INFO ] 2020-02-16 23:49:54 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-02-16 23:49:54 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-02-16 23:49:54 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+[INFO ] 2020-02-16 23:49:54 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:53:51 [main] com.DemoApplication - Starting DemoApplication on wangzhihuideMacBook-Pro.local with PID 29526 (/Users/zhihui/workspaces/demo/target/classes started by zhihui in /Users/zhihui/workspaces/demo)
+[INFO ] 2020-02-16 23:53:51 [main] com.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-16 23:53:51 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-16 23:53:51 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2020-02-16 23:53:51 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:53:51 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-02-16 23:53:51 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+[INFO ] 2020-02-16 23:53:51 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-02-16 23:53:51 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 910 ms
+[INFO ] 2020-02-16 23:53:51 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:53:51 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+[INFO ] 2020-02-16 23:53:51 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+[INFO ] 2020-02-16 23:53:51 [main] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+[INFO ] 2020-02-16 23:53:51 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:53:51 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2020-02-16 23:53:51 [main] com.DemoApplication - Started DemoApplication in 2.181 seconds (JVM running for 2.941)
+[INFO ] 2020-02-16 23:53:51 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-02-16 23:53:51 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-02-16 23:53:51 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+[INFO ] 2020-02-16 23:53:51 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:57:04 [main] com.DemoApplication - Starting DemoApplication on wangzhihuideMacBook-Pro.local with PID 29548 (/Users/zhihui/workspaces/demo/target/classes started by zhihui in /Users/zhihui/workspaces/demo)
+[INFO ] 2020-02-16 23:57:04 [main] com.DemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-02-16 23:57:04 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-02-16 23:57:04 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8899 (http)
+[INFO ] 2020-02-16 23:57:04 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:57:04 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-02-16 23:57:04 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+[INFO ] 2020-02-16 23:57:04 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-02-16 23:57:04 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1033 ms
+[INFO ] 2020-02-16 23:57:04 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-02-16 23:57:04 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+[INFO ] 2020-02-16 23:57:04 [main] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+[INFO ] 2020-02-16 23:57:04 [main] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+[INFO ] 2020-02-16 23:57:04 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8899"]
+[INFO ] 2020-02-16 23:57:04 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8899 (http) with context path ''
+[INFO ] 2020-02-16 23:57:04 [main] com.DemoApplication - Started DemoApplication in 2.401 seconds (JVM running for 3.542)
+[INFO ] 2020-02-16 23:57:04 [http-nio-8899-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-02-16 23:57:04 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-02-16 23:57:04 [http-nio-8899-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+[INFO ] 2020-02-16 23:57:04 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
